@@ -20,17 +20,18 @@ MS Visual Studio Code, Atom, Swagger/Open API, Git Version Control, GitHub, GitL
 
 ### Experience
 
-#### Technical Writer at cPanel
+#### Technical Writer at [cPanel](https://cpanel.net/)
+*Houston, Texas*
 
-DECEMBER 2016 --- PRESENT
+DECEMBER 2016 - PRESENT
 
-*Produce high quality documentation and knowledge base articles for the cPanel product.*
+*Produce high quality [documentation and knowledge base articles](https://docs.cpanel.net/) for the cPanel product.*
 
 * Work with a Scrum team to document all product features, improvements, and changes each release cycle, including:
   * Documenting features, release notes, and technical information for the product’s customers.
   * Creating quick guides for cPanel technical support and training teams.
   * Reviewing code and new or modified strings for localized text.
-  * Reviewing API files to ensure they meet both documentation and developer style guide standards.
+  * Reviewing [API files](https://api.docs.cpanel.net/) to ensure they meet both documentation and developer style guide standards.
   * Review developer merge requests to verify whether any changes require documentation review.
   * Work closely with the developers and quality assurance analysts to ensure proposed documentation is technically accurate before documentation peer review.
   * Advocating for the user during development discussion and feature planning.
@@ -41,9 +42,9 @@ DECEMBER 2016 --- PRESENT
 * Create tutorial video content for product features.
 
 #### Pipe & Tube QA Document Coordinator at DistributionNOW
-##### Houston, Texas
+*Houston, Texas*
 
-2010 --- DECEMBER 2016
+2010 - DECEMBER 2016
 
 * Managed and maintained mill test report data in the company's Metal Trace report database system.
 * Assisted internal customers with the receipt of quality documentation.
@@ -52,7 +53,20 @@ DECEMBER 2016 --- PRESENT
 * Managed and maintained all department manifest documentation, records, and files for materials on all inbound vessels.
 * Assisted the logistics team with day-to-day operations, including coordination between internal customers and freight forwarders.
 
+### Freelance Projects
+
+#### Freelance Author at [Houston Press](https://www.houstonpress.com/)
+*Houston, Texas*
+
+2016
+
+* Developed "pitch" submissions for publication to editor for article approval.
+* Visited various dining locations in and around greater Houston area for article information.
+* Coordinate with restaurants photography of plates and meals, as well as interviews, as necessary.
+* Draft articles, edit, and present submissions to senior editors through Houston Press Foundation program.
+* Maintained and updated information on Houston Press website.
+
 ### Education and Training
 
-* Technical Writing Certification --- Bellevue College, 2016
-* Bachelor of Arts, Criminal Justice --- Sam Houston State University, 2008
+* *Technical Writing Certification* - [Bellevue College](https://www.bellevuecollege.edu/), 2016
+* *Bachelor of Arts, Criminal Justice* - [Sam Houston State University](https://www.shsu.edu/), 2008
