@@ -2,7 +2,7 @@
 
 *Writer based in Houston, Texas seeking opportunities to help improve technical documentation, one file at a time.*
 
-[Email](mailto:ashleymkinard@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ashleykinard/) / [Portfolio](https://github.com/ashleykinard/samples)
+[Email](mailto:ashleymkinard@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ashleykinard/) / [Portfolio](https://github.com/ashleykinard/samples/README.md)
 
 ### Key Skills
 
