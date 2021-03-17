@@ -2,7 +2,7 @@
 
 *Writer based in Houston, Texas seeking opportunities to help improve technical documentation, one file at a time.*
 
-[Email](mailto:ashleymkinard@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ashleykinard/) / [GitHub](https://github.com/ashleykinard)
+[Email](mailto:ashleymkinard@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ashleykinard/) / [Portfolio](https://github.com/ashleykinard/samples)
 
 ### Key Skills
 
@@ -20,35 +20,36 @@ MS Visual Studio Code, Atom, Swagger/Open API, Git Version Control, GitHub, GitL
 
 ### Experience
 
-#### Technical Writer at [cPanel](https://cpanel.net/)
+#### Technical Writer at [cPanel, L.L.C.](https://cpanel.net/)
 *Houston, Texas*
 
 DECEMBER 2016 - PRESENT
 
-*Produce high quality [documentation and knowledge base articles](https://docs.cpanel.net/) for the cPanel product.*
+*Produce high quality [documentation and knowledge base articles](https://docs.cpanel.net/) for the [cPanel & WHM](https://cpanel.net/products/) product.*
 
 * Work with a Scrum team to document all product features, improvements, and changes each release cycle, including:
-  * Documenting features, release notes, and technical information for the product’s customers.
+  * Documenting features, release notes, and technical information for the product's customers.
   * Creating quick guides for cPanel technical support and training teams.
   * Reviewing code and new or modified strings for localized text.
-  * Reviewing [API files](https://api.docs.cpanel.net/) to ensure they meet both documentation and developer style guide standards.
+  * Reviewing [API documentation](https://api.docs.cpanel.net/) to ensure they meet cPanel's style guide standards.
   * Review developer merge requests to verify whether any changes require documentation review.
   * Work closely with the developers and quality assurance analysts to ensure proposed documentation is technically accurate before documentation peer review.
-  * Advocating for the user during development discussion and feature planning.
+  * Provide user-driven feedback during development discussion and feature planning.
 * Work with the technical support team to maintain and update any incorrect or outdated published documentation.
-* Review and revise existing documentation to ensure documents meet the department’s style guide standards.
-* Collaborate with the documentation team regularly to review the style guide.
-* Peer review other documentarians’ work to ensure it meets the style guide’s standards.
-* Create tutorial video content for product features.
+* Review and revise existing documentation to ensure they meet cPanel's style guide standards.
+* Collaborate and facilitate the review of cPanel's style guide on a regular basis.
+* Peer review other writers' work to ensure it meets cPanel's style guide standards.
+* Create tutorial video content.
 
 #### Pipe & Tube QA Document Coordinator at DistributionNOW
 *Houston, Texas*
 
 2010 - DECEMBER 2016
 
-* Managed and maintained mill test report data in the company's Metal Trace report database system.
-* Assisted internal customers with the receipt of quality documentation.
-* Investigated and resolved all issues with missing quality documentation.
+*Managed and maintained certified mill test report data in the company's quality assurance document database.*
+
+* Assisted internal customers with the receipt of documentation.
+* Investigated and resolved all issues with missing documentation.
 * Supported department sourcing specialists teams.
 * Managed and maintained all department manifest documentation, records, and files for materials on all inbound vessels.
 * Assisted the logistics team with day-to-day operations, including coordination between internal customers and freight forwarders.
