@@ -27,12 +27,13 @@ MAY 2021 — PRESENT
 
 *Create and edit developer-facing documentation for Zoom's various API offerings. Work with other writers, engineering, and developer advocates to document API improvements and enhancements for monthly releases.*
 
-* Documenting new APIs (OpenAPI) and webhooks.
-* Creating release notes and additional technical communications or documentation.
-* Reviewing and continually improving the API documentation.
-* Review engineering merge requests to ensure the proposed changes or additions are technically accurate and clear.
+* Lead the Developer Documentation department API (OpenAPI) and webhooks documentation efforts.
+* Reviewing and continually improving the existing API documentation presentation and schema formatting.
+* Review and approve engineering merge requests.
+* Continually ensure proposed changes or additions to the API documentation are technically accurate and clear.
 * Provide user-driven feedback during engineering review.
-* Reviewing and improving existing developer documentation.
+* Creating release notes and additional technical communications or documentation, including working with Product Managers and Marketing to announce changes.
+* Reviewing and improving existing developer documentation (non API).
 * Collaborating with the developer relations team to continually improve our existing developer documentation to ensure that it is clear to its intended audience.
 
 #### Technical Writer at [cPanel, L.L.C.](https://cpanel.net/)
