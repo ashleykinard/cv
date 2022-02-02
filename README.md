@@ -2,7 +2,7 @@
 
 *Writer based in Houston, Texas seeking opportunities to help improve technical documentation, one file at a time.*
 
-[Email](mailto:ashleymkinard@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ashleykinard/) / [Portfolio](https://github.com/ashleykinard/samples/blob/origin/README.md)
+[Email](mailto:ashleymkinard@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ashleykinard/) / [Portfolio](https://ashleykinard.pro/portfolio/)
 
 ### Key Skills
 
@@ -16,14 +16,29 @@ Markdown, XML/HTML, RESTful APIs, API Design, Agile, JSON, YAML, Perl, Git, Git 
 
 #### Tools
 
-MS Visual Studio Code, Atom, Swagger/Open API, Git Version Control, GitHub, GitLab, Linux, BitBucket, Atlassian JIRA, Atlassian Confluence, Mac OS, Microsoft Windows OS, Adobe Photoshop, Camtasia, Pixelmator, Slack Software, Zoom Software
+MS Visual Studio Code, Atom, Swagger/Open API, Postman, Git Version Control, GitHub, GitLab, Linux, BitBucket, Atlassian JIRA, Atlassian Confluence, Mac OS, Microsoft Windows OS, Adobe Photoshop, Camtasia, Pixelmator, Slack Software, Zoom Software
 
 ### Experience
+
+#### Technical Writer at [Zoom, Inc.](https://zoom.us/)
+*Remote*
+
+MAY 2021 — PRESENT
+
+*Create and edit developer-facing documentation for Zoom's various API offerings. Work with other writers, engineering, and developer advocates to document API improvements and enhancements for monthly releases.*
+
+* Documenting new APIs (OpenAPI) and webhooks.
+* Creating release notes and additional technical communications or documentation.
+* Reviewing and continually improving the API documentation.
+* Review engineering merge requests to ensure the proposed changes or additions are technically accurate and clear.
+* Provide user-driven feedback during engineering review.
+* Reviewing and improving existing developer documentation.
+* Collaborating with the developer relations team to continually improve our existing developer documentation to ensure that it is clear to its intended audience.
 
 #### Technical Writer at [cPanel, L.L.C.](https://cpanel.net/)
 *Houston, Texas*
 
-DECEMBER 2016 - PRESENT
+DECEMBER 2016 — PRESENT
 
 *Produce high-quality [documentation and knowledge base articles](https://docs.cpanel.net/) for the [cPanel & WHM](https://cpanel.net/products/) product.*
 
@@ -44,7 +59,7 @@ DECEMBER 2016 - PRESENT
 #### Pipe & Tube QA Document Coordinator at DistributionNOW
 *Houston, Texas*
 
-2010 - DECEMBER 2016
+2010 — DECEMBER 2016
 
 *Managed and maintained certified mill test report data in the company's quality assurance document database.*
 
