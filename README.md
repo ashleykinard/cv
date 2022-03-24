@@ -12,11 +12,11 @@ Communication, Software Documentation, Critical Analysis, Problem Analysis and S
 
 #### Technical
 
-Markdown, XML/HTML, RESTful APIs, API Design, Agile, JSON, YAML, Perl, Git, Git Bash, Video Capture/Editing, Audio Recording/Editing
+Markdown, RESTful APIs, API Design, OpenAPI Specification (OAS), GraphQL, JSON, YAML, Perl, XML/HTML/CSS, Git, Git Bash, Command Line Interface, Agile, Video and Audio Recording/Editing
 
 #### Tools
 
-MS Visual Studio Code, Atom, Swagger/Open API, Postman, Git Version Control, GitHub, GitLab, Linux, BitBucket, Atlassian JIRA, Atlassian Confluence, Mac OS, Microsoft Windows OS, Adobe Photoshop, Camtasia, Pixelmator, Slack Software, Zoom Software
+MS Visual Studio Code, Swagger Editor, Postman, Git Version Control, GitHub, GitLab, Linux, BitBucket, Static Site Generators, Atlassian JIRA, Atlassian Confluence, Mac OS, Microsoft Windows OS, Adobe Photoshop, Camtasia, Pixelmator, Slack Software, Zoom Software
 
 ### Experience
 
@@ -39,7 +39,7 @@ MAY 2021 — PRESENT
 #### Senior Technical Writer at [cPanel, L.L.C.](https://cpanel.net/)
 *Houston, Texas*
 
-DECEMBER 2016 — PRESENT
+DECEMBER 2016 — MAY 2021
 
 *Produce high-quality [documentation and knowledge base articles](https://docs.cpanel.net/) for the [cPanel & WHM](https://cpanel.net/products/) product.*
 
