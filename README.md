@@ -6,17 +6,12 @@
 
 ### Key Skills
 
-#### Soft
-
-Communication, Software Documentation, Critical Analysis, Problem Analysis and Solving, Collaboration
-
-#### Technical
-
-Markdown, RESTful APIs, API Design, OpenAPI Specification (OAS), GraphQL, JSON, YAML, Perl, XML/HTML/CSS, Git, Git Bash, Command Line Interface, Agile, Video and Audio Recording/Editing
-
-#### Tools
-
-MS Visual Studio Code, Swagger Editor, Postman, Git Version Control, GitHub, GitLab, Linux, BitBucket, Static Site Generators, Atlassian JIRA, Atlassian Confluence, Mac OS, Microsoft Windows OS, Adobe Photoshop, Camtasia, Pixelmator, Slack Software, Zoom Software
+● **Core Documentation & Markup** — Markdown, MDX, Static Site Generators, HTML/CSS, Content Strategy, Docs-as-Code
+● **API Ecosystem** — OpenAPI, GraphQL, AsyncAPI, Swagger, Postman, API Design and Lifecycle, API Testing
+● **Engineering & Version Control** — Git/GitHub, Pull Request and Review Workflows
+● **Development Environment** — VS Code, Command Line (CLI)
+● **Governance & AI Tools** — Automated Style Guides, Claude, Copilot, Prompt Engineering, LLM Orchestration, AI-Assisted Drafting and Review
+● **Collaboration & Management** — Jira, Confluence, Agile/Scrum
 
 ### Experience
 
@@ -25,20 +20,24 @@ MS Visual Studio Code, Swagger Editor, Postman, Git Version Control, GitHub, Git
 
 APRIL 2022 — OCTOBER 2026
 
-*Create and maintain developer documentation for Postman's API. Work closely with the Postman API engineering team to help ensure product is well-documented for its developer audience.*
+Author and maintain documentation for the Postman Docs, covering all aspects of the frontend product and ensuring parity with the current product state. Optimize and maintain the Postman API Collection and Postman API OpenAPI specification to improve structural clarity and technical accuracy:
 
-* Maintain and update Postman's current [public API collection](https://www.postman.com/postman/workspace/postman-public-workspace/collection/12959542-c8142d51-e97c-46b6-bd77-52bb66712c9a?ctx=documentation) and [API definition](https://www.postman.com/postman/workspace/postman-public-workspace/api/72a32ca3-f06a-4e83-a933-2821a0e6616f/definition/d429098b-1789-4c62-b77b-cf02024aba53?view=documentation).
-* Review the engineering team's work for documentation review, such as string reviews and internal documentation.
+* Maintain and update Postman's current public API collection and OpenAPI specification in the Postman Public Workspace.
+* Review the engineering team's work for documentation review, such as string reviews, UX and error messaging, and internal documentation.
 * Work with other engineering departments to review their API documentation and provide constructive feedback for improvement.
-* Review and improve the team's internal documentation for clarity and consistency.
-* Work closely with OpenAPI definition files to improve structure and clarity for developers.
+* Review and improve the team's internal documentation for clarity and consistency. Document processes and style guides for tone and consistency.
+* Work closely with teams’ OpenAPI specification files to improve structure and clarity for both internal and user consumption.
+* Produce release notes for the release of changes or new endpoints to the Postman API and Postman product.
+* Work with Postman API engineers to document the Postman MCP (Model Context Protocol) server.
+* Write documentation for the Postman Docs center, which covers all aspects of the frontend product.
+* Perform routine documentation maintenance to ensure parity with the current state of the product.
 
 #### Technical Writer at [Zoom, Inc.](https://zoom.us/)
 *Remote*
 
 MAY 2021 — APRIL 2022
 
-*Create and edit developer-facing documentation for Zoom's various API offerings. Work with other writers, engineering, and developer advocates to document API improvements and enhancements for monthly releases.*
+Create and edit developer-facing documentation for Zoom's various API offerings. Work with other writers, engineering, and developer advocates to document API improvements and enhancements for monthly releases.
 
 * Lead the Developer Documentation department API (OpenAPI) and webhooks documentation efforts.
 * Reviewing and continually improving the existing API documentation presentation and schema formatting.
@@ -54,7 +53,7 @@ MAY 2021 — APRIL 2022
 
 DECEMBER 2016 — MAY 2021
 
-*Produce high-quality [documentation and knowledge base articles](https://docs.cpanel.net/) for the [cPanel & WHM](https://cpanel.net/products/) product.*
+Produce high-quality [documentation and knowledge base articles](https://docs.cpanel.net/) for the [cPanel & WHM](https://cpanel.net/products/) product.
 
 * Work with a Scrum team to document all product features, improvements, and changes each release cycle, including:
   * Documenting features, release notes, and technical information for the product's customers.
