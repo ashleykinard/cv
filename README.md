@@ -23,7 +23,7 @@ MS Visual Studio Code, Swagger Editor, Postman, Git Version Control, GitHub, Git
 #### Technical Writer at [Postman](https://postman.com/)
 *Remote*
 
-APRIL 2022 — PRESENT
+APRIL 2022 — OCTOBER 2026
 
 *Create and maintain developer documentation for Postman's API. Work closely with the Postman API engineering team to help ensure product is well-documented for its developer audience.*
 
